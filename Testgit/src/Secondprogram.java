@@ -8,6 +8,8 @@ public class Secondprogram {
 		
 		System.out.println("Added new program");
 		
+		System.out.println("Added new program from git");
+		
 	}
 
 }
